@@ -1,4 +1,4 @@
-# SeekerLovesPythoin
+# SeekerLovesPython
 Basic python tutorial for beginners trying to learn Python.
 # Features
 - [x] Basic Syntax
