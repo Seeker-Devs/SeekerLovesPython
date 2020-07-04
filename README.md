@@ -1,9 +1,5 @@
  
-  ____    _       ____  
- / ___|  | |     |  _ \ 
- \___ \  | |     | |_) |
-  ___) | | |___  |  __/ 
- |____/  |_____| |_|    
+
                         
 # SeekerLovesPython
 Basic python tutorial for beginners trying to learn Python.
@@ -19,3 +15,14 @@ Special thanks to:
 - stackoverflow when I got confused over simple things ;-;
 # Donate
 DM me gift cards or MinecraftJava redeem codes (needed ;p) on Discord, seeker#4453.
+
+
+
+
+
+  ____    _       ____  
+ / ___|  | |     |  _ \ 
+ \___ \  | |     | |_) |
+  ___) | | |___  |  __/ 
+ |____/  |_____| |_|    
+                        
