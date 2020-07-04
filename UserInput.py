@@ -1,3 +1,11 @@
+"""
+  _   _                       ___                           _
+ | | | |  ___    ___   _ __  |_ _|  _ __    _ __    _   _  | |_
+ | | | | / __|  / _ \ | '__|  | |  | '_ \  | '_ \  | | | | | __|
+ | |_| | \__ \ |  __/ | |     | |  | | | | | |_) | | |_| | | |_
+  \___/  |___/  \___| |_|    |___| |_| |_| | .__/   \__,_|  \__|
+                                           |_|
+"""
 #aight fams! Today, we're going to "study" about user input!
 hello_world = input("Henlo senpai! Please input your name:")
 print(hello_world)

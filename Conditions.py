@@ -1,3 +1,11 @@
+"""
+   ____                       _   _   _     _
+  / ___|   ___    _ __     __| | (_) | |_  (_)   ___    _ __    ___
+ | |      / _ \  | '_ \   / _` | | | | __| | |  / _ \  | '_ \  / __|
+ | |___  | (_) | | | | | | (_| | | | | |_  | | | (_) | | | | | \__ \
+  \____|  \___/  |_| |_|  \__,_| |_|  \__| |_|  \___/  |_| |_| |___/
+                                                                    
+"""
 print("Alright, this file will teach you about conditions. If you have an IQ level above 1, you probably know what this should be about. If you don't, well... you should! *GOOGLE IT UP*.")
 Average_age_in_town = 18
 if Average_age_in_town > 18: #a colon is important

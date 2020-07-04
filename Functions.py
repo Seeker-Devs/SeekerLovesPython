@@ -1,3 +1,11 @@
+"""
+  _____                          _     _
+ |  ___|  _   _   _ __     ___  | |_  (_)   ___    _ __    ___
+ | |_    | | | | | '_ \   / __| | __| | |  / _ \  | '_ \  / __|
+ |  _|   | |_| | | | | | | (__  | |_  | | | (_) | | | | | \__ \
+ |_|      \__,_| |_| |_|  \___|  \__| |_|  \___/  |_| |_| |___/
+                                                               
+"""
 def print_something(): #def keyword is used to make the function. It defines the functiom
 	print("How are you")
 testinput = input("Hey\n")

@@ -1,3 +1,11 @@
+"""
+  _       _         _
+ | |     (_)  ___  | |_   ___
+ | |     | | / __| | __| / __|
+ | |___  | | \__ \ | |_  \__ \
+ |_____| |_| |___/  \__| |___/
+                              
+"""
 #Going deeper into lists (they were briefly explaining in Conditions.py)
 #A string can be indexed like a list (others will cause an error)
 string1 = "Random string bois"
