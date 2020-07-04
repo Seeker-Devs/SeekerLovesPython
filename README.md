@@ -20,9 +20,4 @@ DM me gift cards or MinecraftJava redeem codes (needed ;p) on Discord, seeker#44
 
 
 
-  ____    _       ____  
- / ___|  | |     |  _ \ 
- \___ \  | |     | |_) |
-  ___) | | |___  |  __/ 
- |____/  |_____| |_|    
-                        
+
