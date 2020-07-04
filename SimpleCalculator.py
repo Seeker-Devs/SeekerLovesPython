@@ -11,7 +11,7 @@ def divide(a, b):
 def remainder(a, b):
 	return a % b
 # -------- I N P U T -------- #
-while True:
+while True: #tabs were uswd
 	inputchoice = input("Enter: \nA to calculate \nB to multiply \nC to substract \nD to divide\n")
 	if inputchoice in ("A", "B", "C", "D"):
 		if inputchoice.lower() == "A".lower():
