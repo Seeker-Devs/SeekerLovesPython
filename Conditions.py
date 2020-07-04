@@ -1,7 +1,7 @@
 print("Alright, this file will teach you about conditions. If you have an IQ level above 1, you probably know what this should be about. If you don't, well... you should! *GOOGLE IT UP*.")
 Average_age_in_town = 18
 if Average_age_in_town > 18: #a colon is important
-    print("Average age in town ia 18+.")
+    print("Average age in town is 18+.")
 elif Average_age_in_town < 18:
     print("Average age in town is below 18.")
 elif Average_age_in_town == 18:
