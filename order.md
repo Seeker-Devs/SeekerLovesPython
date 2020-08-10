@@ -1,7 +1,9 @@
-#Order
-
-Basic.py
-Conditions.py
-Lists.py
-Functions.py
-SimpleCalculator.py
+Order
+-------
+Basic.py,
+Conditions.py,
+Lists.py,
+Functions.py,
+UserInput.py,
+SimpleCalculator.py,
+Class.py
